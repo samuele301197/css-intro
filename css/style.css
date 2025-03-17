@@ -1,0 +1,16 @@
+header {
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    background-color: darkslategrey ;
+
+}
+
+table
+thead
+th {
+    background-color: rgb(144, 144, 250);
+
+}
+color {
+    background-color: aliceblue;
+}
