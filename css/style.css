@@ -9,8 +9,12 @@ table
 thead
 th {
     background-color: rgb(144, 144, 250);
-
 }
-color {
+#color {
     background-color: aliceblue;
+    
+}
+footer {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
 }
