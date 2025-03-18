@@ -1,23 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 header {
     background-image: url(../img/pattern.png);
     background-size: 400px;
     background-color: rgb(25, 96, 226) ;
-height: 100px;
+    height: 100px;
+   
 }
 .header-logo{
     height: 70%;
 }
+.figcaption{
+    font-size: 12px;
+}
+
+
 
 table
 thead
 th {
     background-color: rgb(144, 144, 250);
+    border-collapse: collapse;
 }
 #color {
     background-color: aliceblue;
     
 }
-footer {
+.odd-row{
+    background-color: lightcoral;
+    border-collapse: collapse;
+}
+.monitor{
     background-image: url(../img/monitor.jpg);
-    background-repeat: no-repeat;
+
+}
+
+.pattern{
+    background-image: url(../img/pattern.png);
 }
